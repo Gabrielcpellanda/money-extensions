@@ -5,7 +5,7 @@
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
 
-    <PackageId>MoneyExtensions</PackageId>
+    <PackageId>MoneeeyExtensions</PackageId>
     <Version>1.0.0</Version>
     <License>MIT</License>
     <Authors>Gabriel Pellanda</Authors>
@@ -14,15 +14,10 @@
     <RepositoryUrl>https://github.com/Gabrielcpellanda/money-extensions</RepositoryUrl>
     <PackageProjectUrl>https://github.com/Gabrielcpellanda/money-extensions</PackageProjectUrl>
     <PackageLicenseExpression>MIT</PackageLicenseExpression>
-    <PackageIcon>icon.png</PackageIcon>
     <PackageTags>money;int;decimal</PackageTags>
     <ReleaseNotes>Primeira versão</ReleaseNotes>
     <Title>MoneyExtensions</Title>
     <Summary>Estensão para conversão de Decimal para inteiro</Summary>
 </PropertyGroup>
-
-<ItemGroup>
-  <None Include= "..\Media\icon.png" Pack="true" PackagePath="\"/>
-</ItemGroup>
 
 </Project>
